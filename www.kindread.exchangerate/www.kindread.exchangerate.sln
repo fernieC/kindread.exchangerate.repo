@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "www.kindread.exchangerate", "www.kindread.exchangerate.csproj", "{17EDA7F6-BD13-C22E-A0EE-F55670DB9B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kindred.exchangerate.test", "..\kindred.exchangerate.test\kindred.exchangerate.test.csproj", "{640385D4-1073-44E7-AEB3-3A6D49B308AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17EDA7F6-BD13-C22E-A0EE-F55670DB9B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EDA7F6-BD13-C22E-A0EE-F55670DB9B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EDA7F6-BD13-C22E-A0EE-F55670DB9B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EDA7F6-BD13-C22E-A0EE-F55670DB9B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640385D4-1073-44E7-AEB3-3A6D49B308AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640385D4-1073-44E7-AEB3-3A6D49B308AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640385D4-1073-44E7-AEB3-3A6D49B308AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640385D4-1073-44E7-AEB3-3A6D49B308AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A947485-D3D9-4013-A9E1-7F737B1385E6}
+	EndGlobalSection
+EndGlobal

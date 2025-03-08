@@ -1,0 +1,6 @@
+@www.kindread.exchangerate_HostAddress = http://localhost:5113
+
+GET {{www.kindread.exchangerate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
